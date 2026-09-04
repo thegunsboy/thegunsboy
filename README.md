@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/Guns-300-a9d6ff?labelColor=555555">
+<img src="https://img.shields.io/badge/Guns-300-91A231?labelColor=555555">
 </a> 
  <a
 
@@ -9,4 +9,4 @@
 <a
  
   <div align="center">
-<img src="https://img.shields.io/badge/bullets-a9d6ff?labelColor=555555" />
+<img src="https://img.shields.io/badge/bullets-10k-91A231?labelColor=555555" />
