@@ -36,7 +36,4 @@
 <div align="center">
 <img src="https://i.postimg.cc/R0yVmLjN/1788497288535.png" width="500" />
 
-<div align="center">
-<img src="https://i.postimg.cc/1znsvN4G/52cd999b95c11a9578422c8f095a1f23.gif" width="500" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=300&lines=yeah+that's+me" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=300&lines=yeah+that's+me." />
