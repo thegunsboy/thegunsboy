@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=430&lines=Pico!+Go!+Pico!+GO!" />
+
 <div align="center">
 <img src="https://i.postimg.cc/fWVNfdST/1788494015312.png" width="30">
 </a> 
@@ -35,3 +38,5 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/1znsvN4G/52cd999b95c11a9578422c8f095a1f23.gif" width="500" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=300&lines=yeah+that's+me" />
