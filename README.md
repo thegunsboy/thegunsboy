@@ -26,5 +26,9 @@
  
 [✦ ATA](YOUR_ATA_LINK_HERE)
 
+<p align="center">
+  <img src="https://i.postimg.cc/g2zdRTvK/cab361fa47be98a68e5cb84b0701631a.gif" width="200">
+</p>
+
 <div align="center">
-<img src="https://i.postimg.cc/hjPSB3Gj/1788493086313.jpg" width="500" />
+<img src="" width="500" />
