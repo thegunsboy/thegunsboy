@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+<img src="https://img.shields.io/badge/Guns-300-a9d6ff?labelColor=555555">
+</a> 
+ <a
 
-<!--
-**thegunsboy/thegunsboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://i.postimg.cc/RhDy2gWy/1788494028340.png" width="25">
+</a> 
+<a
+ 
+  <div align="center">
+<img src="https://img.shields.io/badge/bullets-a9d6ff?labelColor=555555" />
