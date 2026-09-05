@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,100:555555&height=2&section=header"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=430&lines=Pico!+Go!+Pico!+GO!" />
 
@@ -37,3 +39,5 @@
 <img src="https://i.postimg.cc/R0yVmLjN/1788497288535.png" width="500" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=300&lines=yeah+that's+me." />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,100:pink&height=2&section=header"/>
