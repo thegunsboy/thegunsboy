@@ -46,8 +46,9 @@
 </td>
 
 <td align="center">
-$\color{#91A231}{\textsf{All the Credits}}$ 
-$\color{#91A231}{\textsf{to the artist!}}$ 
+$\color{#91A231}{\textsf{Alt account}}$ 
+$\color{#91A231}{\textsf{For Pico!}}$ 
+$\color{#91A231}{\textsf{From FNF}}$ 
 </td>
 
 </tr>
