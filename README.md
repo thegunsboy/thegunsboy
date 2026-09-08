@@ -49,6 +49,7 @@
 $\color{#91A231}{\textsf{Alt account}}$ 
 $\color{#91A231}{\textsf{For Pico!}}$ 
 $\color{#91A231}{\textsf{From FNF}}$ 
+$\color{#91A231}{\textsf{Or Pico's school}}$ 
 </td>
 
 </tr>
