@@ -42,11 +42,11 @@
 <tr>
 
 <td align="center">
-<img src="./pico.png" width="300" alt="Artwork">
+<img src="https://i.postimg.cc/cJ2fV9hJ/In-Shot-20260908-073758122.png" width="300" alt="Artwork">
 </td>
 
 <td align="center">
- />
+
 </td>
 
 </tr>
