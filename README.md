@@ -36,7 +36,7 @@
 </p>
 
 <div align="center">
-<img src="https://i.postimg.cc/R0yVmLjN/1788497288535.png" width="400" />
+<img src="https://i.postimg.cc/W45Xk0SW/In-Shot-20260921-024710415.png" width="400" />
 
 <table align="center">
 <tr>
