@@ -56,7 +56,7 @@ $\color{#91A231}{\textsf{Or Pico's school}}$
 </table>
 
 <div align="center">
-<img src="https://i.postimg.cc/SN5HYfX5/In-Shot-20260921-005003582.png" width="500" 
+<img src="https://i.postimg.cc/SN5HYfX5/In-Shot-20260921-005003582.png" width="500"> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=300&lines=yeah+that's+me." />
 
