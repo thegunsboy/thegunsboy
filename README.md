@@ -27,6 +27,7 @@
 <img src="https://i.postimg.cc/7hysxKbF/In-Shot-20260921-022200651.png" width="500" />
  
 [✦ ATA](https://supermanbanny.atabook.org)
+[✦ STRAWPAGE](https://bannysupermann.straw.page)
 
 <p align="center">
   <img src="https://i.postimg.cc/g2zdRTvK/cab361fa47be98a68e5cb84b0701631a.gif" width="200">
