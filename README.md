@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=91A231:91A231,100:91A231&height=2&section=header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=430&lines=Pico!+Go!+Pico!+GO!" />
-
 <div align="center">
 <img src="https://i.postimg.cc/fWVNfdST/1788494015312.png" width="30">
 </a> 
@@ -37,23 +34,6 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/W45Xk0SW/In-Shot-20260921-024710415.png" width="400" />
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://i.postimg.cc/cJ2fV9hJ/In-Shot-20260908-073758122.png" width="300" alt="Artwork">
-</td>
-
-<td align="center">
-$\color{#91A231}{\textsf{Alt account}}$ 
-$\color{#91A231}{\textsf{For Pico!}}$ 
-$\color{#91A231}{\textsf{From FNF}}$ 
-$\color{#91A231}{\textsf{Or Pico's school}}$ 
-</td>
-
-</tr>
-</table>
 
 <div align="center">
 <img src="https://i.postimg.cc/SN5HYfX5/In-Shot-20260921-005003582.png" width="500"/> 
