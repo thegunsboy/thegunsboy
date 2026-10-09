@@ -33,6 +33,8 @@
   <img src="https://i.postimg.cc/g2zdRTvK/cab361fa47be98a68e5cb84b0701631a.gif" width="200">
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=91A231:91A231,100:91A231&height=2&section=header"/>
+
 <div align="center">
 <img src="https://i.postimg.cc/W45Xk0SW/In-Shot-20260921-024710415.png" width="400" />
 
